@@ -1,4 +1,4 @@
-FROM geoder101/fsharp:1.0
+FROM geoder101/fsharp
 MAINTAINER George Dernikos <geoder101@gmail.com>
 
 RUN apt-get update \
